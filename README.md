@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Java
 - 🌱 I’m currently learning DataScience,LangChain,Git and Github Course and also SQL 
 - 📫 How to reach me - shivam7744998850@gmail.com
-- 😄 Pronouns: You can Call me Shiv
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I tried to explain recursion to my cat, but she just kept going in circles. 🐱
 
 <!---
