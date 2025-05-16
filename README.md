@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivchaudhari-ai
+- 👋 Hi, I’m @shivchaudhari
 - 👀 I’m interested in Python and Java
 - 🌱 I’m currently learning DataScience,LangChain,Git and Github Course and also SQL 
 - 📫 How to reach me - shivam7744998850@gmail.com
